@@ -164,3 +164,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 "Изменение в branch1" 
 "Еще одно изменение в branch1" 
 "Последнее изменение в branch1" 
+"Дополнительное изменение 1 в branch1" 
